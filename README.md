@@ -153,10 +153,3 @@ each role lands on its own dashboard shell with nested routes:
 3. **`LoginPage.tsx` and `RegistrationPage.tsx`** are unused/orphaned — safe to delete
    once confirmed unnecessary, since `AuthPage.tsx` fully replaces them.
 4. **No automated tests** currently exist in this project.
-
----
-
-## Attribution
-
-See `ATTRIBUTIONS.md` for third-party library and asset licensing notes carried over
-from the original Figma export.
